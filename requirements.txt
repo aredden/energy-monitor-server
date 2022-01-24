@@ -1,0 +1,9 @@
+python-kasa
+structlog
+asyncio
+python-dotenv
+uvicorn
+fastapi
+prometheus-fastapi-instrumentator
+pydash
+pydotted
